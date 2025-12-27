@@ -4,7 +4,6 @@ body {
     background-color: #f4f6f8;
 }
 
-/* ===== Header ===== */
 header {
     background-color: #ffffff;
     padding: 20px 40px;
@@ -25,7 +24,6 @@ nav a {
     font-weight: bold;
 }
 
-/* ===== Main ===== */
 main {
     padding: 40px;
     display: flex;
@@ -66,7 +64,6 @@ main {
     margin: 15px 0;
 }
 
-/* ===== Button ===== */
 button {
     background-color: #e51e74;
     color: #fff;
@@ -80,7 +77,6 @@ button:hover {
     background-color: #e51e74;
 }
 
-/* ===== Footer ===== */
 footer {
     text-align: center;
     padding: 20px;
